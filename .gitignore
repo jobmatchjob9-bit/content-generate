@@ -1,0 +1,12 @@
+# Environment
+venv/
+__pycache__/
+.env
+
+# Byte-compiled / temp files
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
